@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / API keys
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.spec
+
+# PyInstaller
+*.manifest
+*.pyz
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+
+# Browser / personal data
+AppData/
+
+# Generated files
+*.bak
